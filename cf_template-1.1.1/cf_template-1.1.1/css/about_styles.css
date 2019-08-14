@@ -1,0 +1,76 @@
+* {box-sizing: border-box;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+
+.header h1 {
+	text-align: center;
+  padding-bottom: 50px;
+}
+
+
+.image img {
+	display: inline-block;
+	float: left;
+	width: 100%;
+}
+
+.column {
+	display: inline-block;
+	float: left;
+	width: 33.3333333333%;
+	padding: 0 15px;
+}
+
+.main-text {
+  padding-top: 60px;
+  clear: both;
+}
+
+
+
+/*Typography*/
+
+h1,
+h2,
+h3 {
+  font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+p,
+li {
+	font-family:serif;
+}
+
+.intro p {
+  font-family:serif;
+  font-size: 1em;
+  font-weight: 100;
+  -webkit-margin-before: 0;
+}
+
+.skills h3{
+  text-align: left;
+}
+
+
+
+
+body {
+  background-color: #fffeea;
+  color: #34495e;
+}
+
+.skills {
+  background-color: #5ad4c2;
+  padding-bottom: 100px;
+}
+
+.intro {
+  background-color: yellow;
+  padding-bottom: 35px;
+}

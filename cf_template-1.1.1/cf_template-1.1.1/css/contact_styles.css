@@ -1,0 +1,37 @@
+body {
+  background-image: url("../img/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.row {
+  padding-top: 100px;
+}
+
+div.email {
+  background-color: white;
+  margin: 0px 630px 0px 630px;
+  padding-bottom: 20px;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  font-size: 14pt;
+}
+
+div.address {
+  background-color: white;
+  margin: 0px 630px 0px 630px;
+  padding-bottom: 20px;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  font-size: 14pt;
+}
+div.phone {
+  background-color: white;
+  margin: 0px 630px 0px 630px;
+  padding-bottom: 20px;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  font-size: 14pt;
+}
+
+h1 {
+  color: white;
+  font-family: arial narrow, arial, sans-serif;
+}
